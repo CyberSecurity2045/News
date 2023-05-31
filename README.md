@@ -1,5 +1,7 @@
 # News
 
+# Crawl the site and fetch the news headlines
+
 ```
 Barracuda zero-day abused since 2022 to drop new malware, steal data
 Android apps with spyware installed 421 million times from Google Play
